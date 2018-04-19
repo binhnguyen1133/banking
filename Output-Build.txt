@@ -1,0 +1,20 @@
+﻿1>------ Build started: Project: Quan-Ly-Ngan-hang, Configuration: Debug Win32 ------
+1>Quan-Ly-Ngan-hang.cpp
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.h(7): error C2011: 'Ngay': 'struct' type redefinition
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.h(7): note: see declaration of 'Ngay'
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.h(14): error C2011: 'Thong_tin': 'struct' type redefinition
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.h(14): note: see declaration of 'Thong_tin'
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\quan-ly-ngan-hang.cpp(12): error C2027: use of undefined type 'Thong_tin'
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.h(14): note: see declaration of 'Thong_tin'
+1>Khach-Hang.cpp
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.cpp(10): warning C4305: '=': truncation from 'double' to 'float'
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.cpp(12): warning C4305: '=': truncation from 'double' to 'float'
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.cpp(14): warning C4305: '=': truncation from 'double' to 'float'
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.cpp(16): warning C4305: '=': truncation from 'double' to 'float'
+1>d:\đại học\kĩ thuật lập trình\tuần 5+6\1712294_tuan05+06\quan-ly-ngan-hang\khach-hang.cpp(18): warning C4305: '=': truncation from 'double' to 'float'
+1>Generating Code...
+1>Done building project "Quan-Ly-Ngan-hang.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
